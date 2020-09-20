@@ -1,16 +1,19 @@
-# shop_app
+# My shop app
 
-A new Flutter project.
+Flutter ecommerce application, inspired by [theFlutterWay youtube channel](https://www.youtube.com/channel/UCJm7i4g4z7ZGcJA_HKHLCVw) project
 
-## Getting Started
+## The Progress
 
-This project is a starting point for a Flutter application.
+Project is a full ecommerce application, released in video serise, and this is the progress
 
-A few resources to get you started if this is your first Flutter project:
+- [x] [SplashScreen](https://www.youtube.com/watch?v=YEJPg2jwzI8&t=602s)
+- [ ] Login
+- [ ] Signup
+- [ ] HomeScreen
+- [ ] ...
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Copyrights
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+this application is an opensource application, and all assets used are copyrights free
+
+- illustrations are from (unDraw)[https://undraw.co]
